@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Richard Ybañez
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently looking for a Software development job particularly on front-end development
 - 💞️ I’m looking to collaborate for my future projects
 - 📫 How to reach me: richardybanez037@gmail.com
 - 🚀 my old github account: https://github.com/richardybz7
